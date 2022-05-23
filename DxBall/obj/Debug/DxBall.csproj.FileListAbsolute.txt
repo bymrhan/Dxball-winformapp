@@ -1,0 +1,10 @@
+C:\Users\ataka\source\repos\DxBall\bin\Debug\DxBall.exe.config
+C:\Users\ataka\source\repos\DxBall\bin\Debug\DxBall.exe
+C:\Users\ataka\source\repos\DxBall\bin\Debug\DxBall.pdb
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.Form1.resources
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.Properties.Resources.resources
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.csproj.GenerateResource.cache
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.exe
+C:\Users\ataka\source\repos\DxBall\obj\Debug\DxBall.pdb
