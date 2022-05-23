@@ -6,7 +6,8 @@ description: >-
 
 # 🌱 Dxball Oyunu
 
-> 📣 Proje amaçlı yapılmıştır. 
+> 📣 Form üzerindeki nesnelerin birbiriyle olan ilişkilerini öğrenmek amaçlı yapılmıştır. 
+> ⚠️ Orjinal Dxball'dan farklı bölüm ve zorluk derecesi yoktur.
 > ⏬ Güncelleme yapılmayacaktır.
 
 
